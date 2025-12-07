@@ -26,7 +26,7 @@ We trained the mobile arm for two distinct, challenging manipulation tasks, demo
 ## Judging Criteria
 
 ### 1. Mission 2 Description (10 points)
-- Our project successfully achieved two distinct, high-value manipulation skills: reliable object relocation (Bottle PnP) and high-dexterity precision (Relocation), both controlled by a single, advanced policy.
+- Our project successfully achieved two distinct, high-value manipulation skills: reliable object relocation (Bottle PnP) and high-dexterity precision (Relocation).
 
 Reliable Relocation: The bottle pick-and-place demonstrates the core reliability needed for industrial assembly and kitting. The multi-step sequence confirms the learned policy's robustness for repeatable factory tasks.
 
@@ -40,8 +40,6 @@ ACT for High-Fidelity Control: We utilized the ACT policy's ability to predict a
 
 Innovation in Gripper Control: We successfully applied the policy to harness a specialized gripper (suction cup), proving that the method can be trained to learn the complex temporal dependencies required for precise engagement and separation specific to high-dexterity tasks.
 
-Dual-Skill Demonstration: The project uniquely showcases the versatility of a single learning architecture by successfully deploying two fundamentally different learned skills (general relocation and highly precise dexterity).
-
 ### 3. Technical implementations (20 points)
 - Our unique contribution is the innovative application of the ACT policy to create a highly robust, yet specialized, dual-skill system.
 
@@ -50,11 +48,7 @@ We focused on capturing highly precise trajectories necessary for the dexterity 
 Result (Inference): The inference successfully demonstrates the full multi-step planning capability of the ACT policy. The policy runs continuously, executing the learned chunks with the necessary low-latency control to maintain task reliability.
 
 ### 4. Ease of use (10 points)
-- You want to focus the Ease of Use section solely on how your hardware solution (the Lekiwi/XLerobot base and the specialized suction cup gripper) contributes to the project's generalizability and ease of use.
 
-Here is the revised answer for Point 4:
-
-4. Ease of Use (10 points)
 Our hardware solution, combining a modular base with a specialized end-effector, significantly enhances the project's ease of use and flexibility.
 
 Generalizability and Adaptability of the Solution:
@@ -64,11 +58,6 @@ The choice of the Lekiwi/XLerobot mobile platform is inherently generalizable, a
 The specialized suction cup gripper increases adaptability. It allows the robot to reliably handle objects (like the business card) that would be impossible or highly unreliable for a standard parallel gripper, extending the system's operational scope without requiring complex re-engineering of the arm.
 
 The simple mechanism of the suction cup means the learned dexterity skill is geometry-specific, making it applicable to any similar flat, stacked items.
-
-Types of Commands or Interfaces Needed to Control the Robot:
-
-The mobile arm platform is designed for accessibility. The successful implementation of the high-level ACT policy on this hardware means the operator only needs a single, simple initiation command to execute the multi-step sequence, maximizing
-
 
 
 ## Additional Links
