@@ -1,13 +1,14 @@
 **### Make a fork or copy of this repo and fill in your team submission details! ###**
 
-# AMD_Robotics_Hackathon_2025_[Project Name]
+# AMD_Robotics_Hackathon_2025_Almassas_Assistant
 *Submission is for the task you did in Mission 2, since Mission 1 was a "hello world" task for every team.*
 
 ## Team Information
 
-**Team:** *Your team number, name of your team, and members*
+**Team:** * team number 5, Footakagool, Karim Ziadi
 
 **Summary:** *A brief description of your work*
+Our robot Hardware is based on open soucre projects primerilly Lekiwi and XLerobot. It was made at the height of a Table or a Konbini counter where it can easily interact with objects. We trained our Mobile Arm for two tasks independently where the first model Picks up a bottle then moves to reach a blue container and place it inside where the second model adds some dexterity to robot by using a Suction cup gripper where it was used for picking one Business Card from a stacked box filled with. The latest is almost impossible to perform with a normal gripper. 
 
 *<Images or video demonstrating your project>*
 
@@ -15,6 +16,7 @@
 
 ### 1. Mission 2 Description (10 points)
 - *Real world application of your mission*
+
 
 ### 2. Creativity (30 points)
 - *What is novel or unique in your approach?*
