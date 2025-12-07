@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HUGGINGFACE_TOKEN="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"
+HUGGINGFACE_TOKEN=""
 
 
 huggingface-cli login --token ${HUGGINGFACE_TOKEN} --add-to-git-credential
