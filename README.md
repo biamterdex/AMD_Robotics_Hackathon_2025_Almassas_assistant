@@ -7,10 +7,21 @@
 
 **Team:** * team number 5, Footakagool, Karim Ziadi
 
-**Summary:** *A brief description of your work*
-Our robot Hardware is based on open soucre projects primerilly Lekiwi and XLerobot. It was made at the height of a Table or a Konbini counter where it can easily interact with objects. We trained our Mobile Arm for two tasks independently where the first model Picks up a bottle then moves to reach a blue container and place it inside where the second model adds some dexterity to robot by using a Suction cup gripper where it was used for picking one Business Card from a stacked box filled with. The latest is almost impossible to perform with a normal gripper. 
+**Summary:** *🚀 A brief description of your work 🚀*
 
-*<Images or video demonstrating your project>*
+This project, presents a mobile manipulation system designed to operate within common human environments, such as a tabletop or konbini counter. Our robot hardware leverages the robustness of open-source designs, specifically integrating components from the Lekiwi and XLerobot projects.
+
+We trained the mobile arm for two distinct, challenging manipulation tasks, demonstrating both precise object relocation and high-dexterity grip control:
+
+*** Object Relocation (Pick-and-Place): *** The robot executes a multi-step pick-and-place sequence. It picks up a bottle and then navigates to and places it inside a designated blue container. This task validates the robot's ability to perform reliable, multi-stage industrial-style object handling.
+
+[![Video Demonstration: Pick and Place Task Using Replay Function](assets/preview_pick_place.png)](https://youtu.be/CfoK_wLZdRo)
+
+---
+
+*** High-Dexterity Precision Grip: *** This model showcases advanced manipulation capability. Using a suction cup gripper, the robot is tasked with isolating and picking a single business card from a densely stacked box. This task is nearly impossible to perform reliably with conventional parallel grippers and demonstrates the effectiveness of our dexterity-focused training for handling thin, tightly packed objects.
+
+
 
 ## Judging Criteria
 
