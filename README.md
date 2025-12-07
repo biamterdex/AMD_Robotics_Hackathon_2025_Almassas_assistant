@@ -13,13 +13,13 @@ This project, presents a mobile manipulation system designed to operate within c
 
 We trained the mobile arm for two distinct, challenging manipulation tasks, demonstrating both precise object relocation and high-dexterity grip control:
 
-*** Object Relocation (Pick-and-Place): *** The robot executes a multi-step pick-and-place sequence. It picks up a bottle and then navigates to and places it inside a designated blue container. This task validates the robot's ability to perform reliable, multi-stage industrial-style object handling.
+***Object Relocation (Pick-and-Place):*** The robot executes a multi-step pick-and-place sequence. It picks up a bottle and then navigates to and places it inside a designated blue container. This task validates the robot's ability to perform reliable, multi-stage industrial-style object handling.
 
 [Video Demonstration: Pick and Place Task using ACT Policy](https://youtu.be/rS5uCKmigTg)
 
 ---
 
-*** High-Dexterity Precision Grip: *** This model showcases advanced manipulation capability. Using a suction cup gripper, the robot is tasked with isolating and picking a single business card from a densely stacked box. This task is nearly impossible to perform reliably with conventional parallel grippers and demonstrates the effectiveness of our dexterity-focused training for handling thin, tightly packed objects.
+***High-Dexterity Precision Grip:*** This model showcases advanced manipulation capability. Using a suction cup gripper, the robot is tasked with isolating and picking a single business card from a densely stacked box. This task is nearly impossible to perform reliably with conventional parallel grippers and demonstrates the effectiveness of our dexterity-focused training for handling thin, tightly packed objects.
 
 
 
