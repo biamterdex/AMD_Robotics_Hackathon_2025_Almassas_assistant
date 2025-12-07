@@ -21,7 +21,9 @@ We trained the mobile arm for two distinct, challenging manipulation tasks, demo
 
 ***High-Dexterity Precision Grip:*** This model showcases advanced manipulation capability. Using a suction cup gripper, the robot is tasked with isolating and picking a single business card from a densely stacked box. This task is nearly impossible to perform reliably with conventional parallel grippers and demonsFunctiontrates the effectiveness of our dexterity-focused training for handling thin, tightly packed objects.
 
+[Video Demonstration: Suction cup Business Card ](https://youtu.be/95uT0lpNsR0)
 
+---
 
 ## Judging Criteria
 
@@ -61,9 +63,6 @@ The simple mechanism of the suction cup means the learned dexterity skill is geo
 
 
 ## Additional Links
-*For example, you can provide links to:*
-
-- *Link to a video of your robot performing the task*
 
 - *Links to the datasets in Hugging Face*
 
