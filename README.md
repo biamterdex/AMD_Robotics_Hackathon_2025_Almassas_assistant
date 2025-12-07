@@ -15,7 +15,7 @@ We trained the mobile arm for two distinct, challenging manipulation tasks, demo
 
 *** Object Relocation (Pick-and-Place): *** The robot executes a multi-step pick-and-place sequence. It picks up a bottle and then navigates to and places it inside a designated blue container. This task validates the robot's ability to perform reliable, multi-stage industrial-style object handling.
 
-[![Video Demonstration: Pick and Place Task Using Replay Function](assets/preview_pick_place.jpg)](https://youtu.be/CfoK_wLZdRo)
+[Video Demonstration: Pick and Place Task Using Replay Function](https://youtu.be/CfoK_wLZdRo)
 
 ---
 
