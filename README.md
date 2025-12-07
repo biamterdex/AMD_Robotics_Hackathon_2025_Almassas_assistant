@@ -7,7 +7,7 @@
 
 **Team:** * team number 5, Footakagool, Karim Ziadi
 
-**Summary:** *🚀 A brief description of your work 🚀*
+**Summary:** 🚀 🚀
 
 This project, presents a mobile manipulation system designed to operate within common human environments, such as a tabletop or konbini counter. Our robot hardware leverages the robustness of open-source designs, specifically integrating components from the Lekiwi and XLerobot projects.
 
