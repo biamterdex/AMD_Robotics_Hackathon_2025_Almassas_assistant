@@ -64,7 +64,7 @@ The simple mechanism of the suction cup means the learned dexterity skill is geo
 
 ## Our project won the 3rd place 🎉 🎉
 
-![Prize](/assets/preview_pick_place.jpg)
+![Prize](/assets/amd_prize.jpeg)
 
 ## Additional Links
 
