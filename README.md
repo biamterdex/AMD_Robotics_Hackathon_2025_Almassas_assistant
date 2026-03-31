@@ -14,13 +14,13 @@ We trained the mobile arm for two distinct, challenging manipulation tasks, demo
 
 ***Object Relocation (Pick-and-Place):*** The robot executes a multi-step pick-and-place sequence. It picks up a bottle and then navigates to and places it inside a designated blue container. This task validates the robot's ability to perform reliable, multi-stage industrial-style object handling.
 
-![Video Demonstration: Pick and Place Task using ACT Policy](https://youtu.be/rS5uCKmigTg)
+[Video Demonstration: Pick and Place Task using ACT Policy](https://youtu.be/rS5uCKmigTg)
 
 ---
 
 ***High-Dexterity Precision Grip:*** This model showcases advanced manipulation capability. Using a suction cup gripper, the robot is tasked with isolating and picking a single business card from a densely stacked box. This task is nearly impossible to perform reliably with conventional parallel grippers and demonsFunctiontrates the effectiveness of our dexterity-focused training for handling thin, tightly packed objects.
 
-![Video Demonstration: Suction cup Business Card ](https://youtu.be/95uT0lpNsR0)
+[Video Demonstration: Suction cup Business Card ](https://youtu.be/95uT0lpNsR0)
 
 ---
 
@@ -73,7 +73,13 @@ The simple mechanism of the suction cup means the learned dexterity skill is geo
 [Biamterdex/amd_hackathon_mobile_arm-03-50eps](https://huggingface.co/datasets/Biamterdex/amd_hackathon_mobile_arm-03-50eps)
 [Biamterdex/amd_hackathon_mobile_arm_suction-01](https://huggingface.co/datasets/Biamterdex/amd_hackathon_mobile_arm_suction-01)
 
+
 - *Links to the models in Hugging Face*
 
 [Biamterdex/act_mobile_arm_mobile_100000](https://huggingface.co/Biamterdex/act_mobile_arm_mobile_100000/tree/main)
 [Biamterdex/act_mobile_arm_suction_10000](https://huggingface.co/Biamterdex/act_mobile_arm_suction_10000)
+
+
+- *Project Upgrade - Controlling Robot using LLM AGENT*
+  
+[Biamterdex/amd_hackathon_mobile_arm_suction-01](https://youtu.be/DSPQnFagNuo)
