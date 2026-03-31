@@ -14,13 +14,13 @@ We trained the mobile arm for two distinct, challenging manipulation tasks, demo
 
 ***Object Relocation (Pick-and-Place):*** The robot executes a multi-step pick-and-place sequence. It picks up a bottle and then navigates to and places it inside a designated blue container. This task validates the robot's ability to perform reliable, multi-stage industrial-style object handling.
 
-[Video Demonstration: Pick and Place Task using ACT Policy](https://youtu.be/rS5uCKmigTg)
+![Video Demonstration: Pick and Place Task using ACT Policy](https://youtu.be/rS5uCKmigTg)
 
 ---
 
 ***High-Dexterity Precision Grip:*** This model showcases advanced manipulation capability. Using a suction cup gripper, the robot is tasked with isolating and picking a single business card from a densely stacked box. This task is nearly impossible to perform reliably with conventional parallel grippers and demonsFunctiontrates the effectiveness of our dexterity-focused training for handling thin, tightly packed objects.
 
-[Video Demonstration: Suction cup Business Card ](https://youtu.be/95uT0lpNsR0)
+![Video Demonstration: Suction cup Business Card ](https://youtu.be/95uT0lpNsR0)
 
 ---
 
