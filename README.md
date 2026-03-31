@@ -64,7 +64,7 @@ The simple mechanism of the suction cup means the learned dexterity skill is geo
 
 ## Our project won the 3rd place 🎉 🎉
 
-[Biamterdex/amd_hackathon_mobile_arm-03-50eps](assets/preview_pick_place.jpg)
+![Prize](/assets/preview_pick_place.jpg)
 
 ## Additional Links
 
