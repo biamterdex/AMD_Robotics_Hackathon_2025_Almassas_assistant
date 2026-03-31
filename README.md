@@ -1,4 +1,3 @@
-**### Make a fork or copy of this repo and fill in your team submission details! ###**
 
 # AMD_Robotics_Hackathon_2025_Almassas_Assistant
 *Submission is for the task you did in Mission 2, since Mission 1 was a "hello world" task for every team.*
@@ -61,6 +60,11 @@ The specialized suction cup gripper increases adaptability. It allows the robot 
 
 The simple mechanism of the suction cup means the learned dexterity skill is geometry-specific, making it applicable to any similar flat, stacked items.
 
+# Final results and Prize
+
+## Our project won the 3rd place 🎉 🎉
+
+[Biamterdex/amd_hackathon_mobile_arm-03-50eps](assets/preview_pick_place.jpg)
 
 ## Additional Links
 
