@@ -82,4 +82,4 @@ The simple mechanism of the suction cup means the learned dexterity skill is geo
 
 - *Project Upgrade - Controlling Robot using LLM AGENT*
   
-[Biamterdex/amd_hackathon_mobile_arm_suction-01](https://youtu.be/DSPQnFagNuo)
+[XLerobot controlled by Gemini](https://youtu.be/DSPQnFagNuo)
